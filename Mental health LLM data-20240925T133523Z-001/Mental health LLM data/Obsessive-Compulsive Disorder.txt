@@ -1,0 +1,271 @@
+NIMH
+Obsessive-Compulsive Disorder
+What is OCD
+Obsessive-compulsive disorder (OCD) is a long-lasting disorder in which a person experiences uncontrollable and recurring thoughts (obsessions), engages in repetitive behaviors (compulsions), or both. People with OCD have time-consuming symptoms that can cause significant distress or interfere with daily life. However, treatment is available to help people manage their symptoms and improve their quality of life.
+
+What are the signs and symptoms of OCD?
+People with OCD may have obsessions, compulsions, or both. Obsessions are repeated thoughts, urges, or mental images that are intrusive, unwanted, and make most people anxious. Common obsessions include:
+
+Fear of germs or contamination
+Fear of forgetting, losing, or misplacing something
+Fear of losing control over one’s behavior
+Aggressive thoughts toward others or oneself
+Unwanted, forbidden, or taboo thoughts involving sex, religion, or harm
+Desire to have things symmetrical or in perfect order
+Compulsions are repetitive behaviors a person feels the urge to do, often in response to an obsession. Common compulsions include:
+
+Excessive cleaning or handwashing
+Ordering or arranging items in a particular, precise way
+Repeatedly checking things, such as that the door is locked or the oven is off
+Compulsive counting
+Praying or repeating words silently
+Not all repeated thoughts are obsessions, and not all rituals or habits are compulsions. However, people with OCD generally:
+
+Can’t control their obsessions or compulsions, even when they know they’re excessive.
+Spend more than 1 hour a day on their obsessions or compulsions.
+Don’t get pleasure from their compulsions but may feel temporary relief from their anxiety.
+Experience significant problems in daily life due to these thoughts or behaviors.  
+Some people with OCD also have a tic disorder involving repetitive movements or sounds. Motor tics are sudden, brief, repetitive movements, such as eye blinking and other eye movements, facial grimacing, shoulder shrugging, and head or shoulder jerking. Vocal tics include things like repetitive throat-clearing, sniffing, or grunting sounds. It is common for people with OCD to also have a diagnosed mood disorder or anxiety disorder.
+
+OCD symptoms may begin anytime but usually start between late childhood and young adulthood. Most people with OCD are diagnosed as young adults.
+
+The symptoms of OCD may start slowly and can go away for a while or worsen as time passes. During times of stress, the symptoms often get worse. A person’s obsessions and compulsions also may change over time.
+
+People with OCD might avoid situations that trigger their symptoms or use drugs or alcohol to cope. Many adults with OCD recognize that their compulsive behaviors do not make sense. However, children may not realize that their behavior is out of the ordinary and often fear that something terrible will happen if they do not perform certain compulsive rituals. Parents or teachers typically recognize OCD symptoms in children.
+
+If you think you or your child may have OCD, talk to a health care provider. If left untreated, OCD symptoms can become severe and interfere with daily life.
+
+What are the risk factors for OCD?
+Although the exact causes of OCD are unknown, various risk factors increase the chances of developing the disorder.
+
+Genetics: Studies have shown that having a first-degree relative (parent or sibling) with OCD is associated with an increased chance of developing the disorder. Scientists have not identified any one gene or set of genes that definitively leads to OCD, but studies exploring the connection between genetics and OCD are ongoing. 
+Biology: Brain imaging studies have shown that people with OCD often have differences in the frontal cortex and subcortical structures of the brain, areas of the brain that impact the ability to control behavior and emotional responses. Researchers also have found that several brain areas, brain networks, and biological processes play a key role in obsessive thoughts, compulsive behavior, and associated fear and anxiety. Research is underway to better understand the connection between OCD symptoms and parts of the brain. This knowledge can help researchers develop and adapt treatments targeted to specific brain locations.
+Temperament: Some research has found that people who exhibit more reserved behaviors, experience negative emotions, and show symptoms of anxiety and depression as children are more likely to develop OCD.
+Childhood trauma: Some studies have reported an association between childhood trauma and obsessive-compulsive symptoms. More research is needed to understand this relationship.
+Children who suddenly develop OCD symptoms or experience a worsening of OCD symptoms after a streptococcal infection may be diagnosed with Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).
+
+How is OCD treated?
+Treatment helps many people, even those with the most severe forms of OCD. Mental health professionals treat OCD with medications, psychotherapy, or a combination of treatments. A mental health professional can help you decide which treatment option is best for you and explain the benefits and risks of each. 
+
+Following your treatment plan is important because psychotherapy and medication can take some time to work. Although there is no cure for OCD, treatments help people manage their symptoms, engage in day-to-day activities, and lead full, active lives.
+
+Psychotherapy
+Psychotherapy can be an effective treatment for adults and children with OCD. Research shows that certain types of psychotherapy, including cognitive behavioral therapy and other related therapies, can be as effective as medication for many people. For others, psychotherapy may be most effective when combined with medication.
+
+Cognitive behavioral therapy (CBT): CBT is a type of talk therapy that helps people recognize harmful or untrue ways of thinking so they can more clearly view and respond to challenging situations. CBT helps people learn to question these negative thoughts, determine how they impact their feelings and actions, and change self-defeating behavior patterns. CBT has been well studied and is considered the “gold standard” of psychotherapy for many people. CBT works best when customized to treat the unique characteristics of specific mental disorders, including OCD.
+Exposure and response prevention therapy (ERP): Research shows that ERP, a specific type of CBT, effectively reduces compulsive behaviors, even for people who do not respond well to medication. With ERP, people spend time in a safe environment that gradually exposes them to situations that trigger their obsession (such as touching dirty objects) and prevent them from engaging in their typical compulsive behavior (such as handwashing). Although this approach may initially cause anxiety, creating a risk of dropping out of treatment prematurely, compulsions decrease for most people as they continue treatment.
+Children with OCD may need additional help from family members and health care providers to recognize and manage their OCD symptoms. Mental health professionals can work with young children to identify strategies for managing stress and increasing support so they can control their OCD symptoms.
+
+Medication
+Health care providers may prescribe medication to help treat OCD. The most common medications prescribed for OCD are antidepressants that target serotonin, a chemical transmitter in the brain involved in depression and OCD. The largest category of antidepressants is called selective serotonin reuptake inhibitors.
+
+Antidepressant treatment can take 8–12 weeks before symptoms begin to improve, and treatment for OCD may require higher doses than are typically used to treat depression. For some people, these medications may cause side effects such as headaches, nausea, or difficulty sleeping. Most people with OCD find that medication, often in combination with psychotherapy, can help them manage their symptoms.
+
+Your health care provider can adjust medication doses over time to minimize side effects or withdrawal symptoms. Do not stop taking your medication without first talking to your health care provider. They can work with you to monitor your health and adjust your treatment plan safely and effectively.
+
+The most up-to-date information on medications, side effects, and warnings  is available on the U.S. Food and Drug Administration (FDA) website.
+
+Other treatments
+In 2018, the FDA approved using a deep form of repetitive transcranial magnetic stimulation (rTMS)—along with medication, psychotherapy, or a combination of both—to treat people with severe OCD who did not respond to other treatments. In 2022, this approval was extended to standard TMS devices.
+
+Most commonly used to treat depression, rTMS is a noninvasive therapy that uses a magnet to deliver repeated low-intensity pulses to stimulate a particular part of the brain. Unlike most treatments, rTMS can target specific brain areas associated with OCD.
+
+Deep brain stimulation (DBS) is a surgical procedure that uses electricity to directly stimulate sites in the brain. Health care providers may use DBS to treat people with severe OCD when other treatments have not worked. However, this therapy is considered experimental.
+
+Although DBS has received FDA approval to treat certain neurological disorders such as Parkinson’s disease, its effectiveness for treating mental disorders is still being actively researched. The FDA has approved using DBS to treat severe cases of OCD under a Humanitarian Device Exemption. This exemption allows the use of a medical device, such as DBS, for rare diseases or conditions that affect a relatively small number of people, making it challenging to gather enough evidence to establish the device’s effectiveness.
+
+You can find the latest information and guidance on brain stimulation devices  on the FDA’s website.
+
+Finding Treatment
+For general information on mental health and to locate treatment services in your area, call the Substance Abuse and Mental Health Services Administration (SAMHSA) Treatment Referral Helpline at 1-800-662-HELP (4357). SAMHSA also has a Behavioral Health Treatment Locator  on its website that can be searched by location. You can also visit the NIMH’s Help for Mental Illnesses page for more information and resources.
+
+webmd.com
+Obsessive-Compulsive Disorder (OCD)
+Written by Lisa Fields, Stephanie Langmaid
+14–17 minutes
+
+Obsessive-compulsive disorder (OCD) is a mental illness that causes repeated unwanted thoughts or urges (obsessions). It also can cause you to do certain actions over and over again (compulsions). You may have both obsessions and compulsions.
+
+OCD isn’t about habits such as biting your nails or thinking negative thoughts. An obsessive thought might be that certain numbers or colors are "good" or "bad." For example, a compulsive habit might be to wash your hands seven times after touching something that could be dirty. Although you don't want to think or do these things, you feel like you can't stop.
+
+OCD can be very upsetting and disruptive to your life. But treatments and coping strategies can help.
+
+Is OCD an anxiety disorder?
+
+OCD used to be classified as an anxiety disorder. But that changed with the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders, published in 2013. It's now in a category called "Obsessive-Compulsive and Related Disorders." However, most people with OCD also have an anxiety disorder.
+
+OCD vs. OCPD
+
+OCPD stands for obsessive-compulsive personality disorder. People with it have a concern for order, detail, and perfection that's extreme, making them inflexible and controlling. Intrusive thoughts and repetitive behaviors aren't part of it.
+
+Unlike people with OCD, people with OCPD usually aren't bothered by their obsessions and don't recognize that they have a problem. The disorder tends to cause issues in relationships.
+
+Most people with OCD have both obsessions and compulsions, but you could have just one symptom or the other. Some people also have a tic disorder, where they make movements or sounds they can't control.
+
+Obsessions
+
+These are unwanted thoughts, urges, or mental images that you have over and over again. You may try to ignore them or stop yourself from having them, but you can't. Some of the same kinds of obsessive thoughts are common among people with OCD. Examples include:
+
+    Worries about yourself or other people getting hurt
+    Constant awareness of blinking, breathing, or other body sensations
+    Worries about germs and dirt touching your body
+    Fear of losing or forgetting things 
+    Worries about losing control of what you do or say
+    Upsetting thoughts about sex, religion, or violence
+    Need for things to be symmetrical or orderly
+
+Compulsions
+
+These are physical or mental acts you feel like you have to do, even though you don't want to. They're usually related to an obsession; you may believe that by doing them you'll stop the unwanted thoughts or keep something bad from happening. These behaviors may combine several actions into elaborate rituals. Examples include:
+
+    Doing tasks in a specific order every time or keeping rigid routines
+    Needing to count things, such as steps or bottles, and assigning significance to certain numbers
+    Rituals of washing and cleaning
+    Arranging items in a particular order
+    Checking multiple times that doors are locked, appliances are turned off, etc.
+    Repeating certain words or praying silently
+    Constantly seeking reassurance or approval
+
+Another common symptom of OCD is avoiding situations that trigger obsessions.
+
+Symptoms can range from mild to so serious they're disabling. They can sometimes get better or worse with time. The things you obsess about and the behaviors you're compelled to do may also change.
+
+While there aren't clinically recognized types of OCD, obsessions and compulsions tend to revolve around certain common themes.
+
+These include:
+
+Checking. This involves constantly worrying that you've done something wrong or that something bad is going to happen, so you check the locks, alarm system, oven, or light switches, over and over.
+
+Contamination. This is the fear of things that might be dirty or having a compulsion to clean. You may refuse to touch doorknobs, use public toilets, or shake hands. Mental contamination involves feeling like you’ve been treated like dirt.
+
+Symmetry and ordering. This is the need to have things lined up in a certain way. It also involves compulsive counting or repetitive actions. It may be based on an obsession that's completely unrelated -- like worrying someone will die unless you tap the table a certain number of times.
+
+Ruminations and intrusive thoughts. This is an obsession with a line of thought. Some of these thoughts might be violent or disturbing.
+
+Postpartum OCD
+
+A change in hormones during and after pregnancy plus the added responsibilities of being a parent are sometimes thought to bring on a specific kind of OCD. Postpartum or perinatal OCD involves thoughts and behaviors centered around the baby, like constantly fearing that something bad will happen to them, or excessively sanitizing baby items.
+
+It's important to recognize that all new parents have some level of anxiety about their babies. As with other forms of OCD, it rises to the level of a disorder if it keeps you from living normally or taking care of your baby, or if you rely on compulsive behaviors to manage your obsessions.
+
+PANDAS
+
+One rare form of OCD in children is believed to be linked to infection with the group A streptococcus bacteria. With pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS), OCD symptoms come on suddenly and dramatically, soon after a child has had an infection such as strep throat or scarlet fever.
+
+Besides obsessions and compulsions, symptoms of PANDAS can include tics (both verbal and physical), irritability, and clinginess. Antibiotics to cure the strep infection can help with PANDAS, along with standard treatment for OCD symptoms.
+
+Experts aren’t sure why some people have OCD.
+
+They believe it has to do with the way your brain manages certain chemicals called neurotransmitters, particularly serotonin. But they don't know what causes the differences.
+
+Genetics may play a role. There appears to be a family connection, although no specific gene has been identified.
+
+Stress doesn't cause OCD, but it can worsen the symptoms, especially when you're dealing with change. OCD may appear for the first time after a traumatic event or a life transition such as a move, the birth of a sibling, or a marriage or divorce.
+
+OCD is a bit more common in women than in men. Symptoms usually start between late childhood and early adulthood, and most people receive their diagnosis as young adults.
+
+Other risk factors include:
+
+    A parent, sibling, or child with OCD
+    Physical differences in certain parts of your brain
+    Depression, anxiety, or tics
+    Experience with trauma
+    A history of physical or sexual abuse as a child
+
+Your doctor may do a physical exam and blood tests to make sure something else isn’t causing your symptoms. They will also talk with you about your feelings, thoughts, and habits.
+
+OCD test
+
+Your doctor may give you a questionnaire that asks whether you think or do certain things that are common with OCD and how much they bother you. They may also talk to your family or friends.
+
+Many psychological issues have similar symptoms, so it can take time to get the right diagnosis.
+
+OCD diagnosis criteria
+
+According to the DSM-5, having OCD means:
+
+    You have obsessions, compulsions, or both that you can't control.
+    You may feel forced to carry out a compulsion in response to a particular obsession, and it may give you temporary relief from the stress caused by that obsession.
+    Obsessions and compulsions take up at least 1 hour a day.
+    Symptoms interfere with work, your social life, or another part of life.
+    There isn't another physical or psychological explanation for your symptoms.
+
+OCD in children
+
+While adults usually recognize they have a problem, often children don't have that understanding. They don't realize their thoughts and fears are unreasonable, and they think they have to act out their compulsions to prevent something terrible from happening.
+
+If you or your child's teacher notices unusual behavior, you might attribute it to something like ADHD, but there are significant differences in the symptoms. A thorough exam by a mental health specialist can lead to the correct diagnosis.
+
+There’s no cure for OCD. But you may be able to manage how your symptoms affect your life through medicine, therapy, or a combination of treatments.
+
+Psychotherapy
+
+Cognitive behavioral therapy (CBT) can help change your thinking patterns. In a form called exposure and response prevention, your doctor will put you in a situation designed to create anxiety or set off compulsions. You’ll learn to lessen and then stop your OCD thoughts or actions.
+
+Other types of therapy that may be helpful include acceptance and commitment therapy, inference-based cognitive behavioral therapy, and mindfulness.
+
+If your symptoms are so serious that you have a hard time managing your daily life, it may be best to participate in either an intensive outpatient or residential therapy program for several weeks.
+
+OCD medication
+
+Antidepressant drugs called selective serotonin reuptake inhibitors (SSRIs) are the main medications used to help people control obsessions and compulsions. They're usually prescribed in a higher dose than what's used to manage depression. Common ones include:
+
+    Citalopram (Celexa)
+    Escitalopram (Lexapro)
+    Fluoxetine (Prozac)
+    Fluvoxamine (Luvox)
+    Paroxetine (Paxil)
+    Sertraline (Zoloft)
+
+Clomipramine (Anafranil) is a different kind of antidepressant that is sometimes used. These drugs may take may take 2-4 months to start working. If you've tried them and still have symptoms, your doctor might give you antipsychotic drugs such as aripiprazole (Abilify) or risperidone (Risperdal).
+
+If medication helps you, you'll take it for at least a year or two, or possibly the rest of your life. Make sure your doctor knows every other medication you take, including supplements, to avoid potentially dangerous interactions.
+
+Other OCD treatments
+
+While psychotherapy and SSRIs are the standard treatment, researchers are working to find new drugs and other treatment methods to help people with OCD.
+
+Neuromodulation. In rare cases, when therapy and medication aren’t making enough of a difference, your doctor might talk to you about devices that change the electrical activity in a certain area of your brain. One kind, transcranial magnetic stimulation, uses magnetic fields to stimulate nerve cells. A more complicated procedure, deep brain stimulation, uses electrodes that are implanted in your head.
+
+Surgery. It's experimental, but brain surgery may be an option for people whose OCD symptoms are debilitating. Brain cells in regions linked to OCD are destroyed using one of several procedures.
+
+Relaxation. Things such as meditation, yoga, and massage can help with stressful OCD symptoms.
+
+Some separate conditions are classified as obsessive-compulsive–related disorders. They involve obsessions with things such as:
+
+    Your looks (body dysmorphic disorder)
+    Collecting, arranging, or ordering things (hoarding disorder)
+    Pulling out/eating your hair (trichotillomania)
+    Picking at your skin (excoriation)
+    Other kinds of picking or chewing, like nail biting (body-focused repetitive behavior disorder)
+    Body odor or how you smell (olfactory reference disorder)
+
+OCD is something you'll likely have to deal with for the rest of your life. Here are some tips to help you live better with OCD:
+
+Stick with your treatment plan. OCD symptoms may come and go, and if your treatment is working, you may think you're "cured." But it's important to keep practicing what you've learned in therapy and taking your medication. If you stop, you may feel worse. And it can be dangerous to suddenly stop taking an SSRI. Focusing on your goals can help keep you motivated.
+
+Watch out for triggers. Work with your doctor to understand what situations can make your symptoms worse, and come up with a strategy to handle them. That doesn't mean avoiding those situations -- OCD shouldn't stop you from having a career, hobbies, and a social life. And staying busy can distract you from obsessive thoughts.
+
+Celebrate successes and expect setbacks. You'll probably have plenty of both. Try to remember that managing OCD will be an ongoing process. Don't expect it to get better immediately. But do recognize whatever amount of progress you make.
+
+Pay attention to your overall mental health. Many people with OCD also have other psychological issues, such as anxiety disorders, depression, or substance abuse, and are at high risk of suicide attempts. Let your doctor know if your symptoms seem worse, or if you're having new symptoms.
+
+Educate yourself. Learn everything you can about OCD and how to manage it. Keep an eye out for news about the latest treatment strategies.
+
+Take care of yourself. If you eat healthy food, get enough sleep, and exercise regularly, you'll likely feel better in general. Stress can trigger OCD symptoms, so be aware of when it's building up and learn techniques to manage it.
+
+Get support. It can be helpful to connect with others who have OCD. Ask your doctor or check online for support groups in your area.
+
+When a family member has OCD, it can be very disruptive and stressful for the entire household. You can play an important role in supporting your loved one and minimizing the impact the disorder has on your lives.
+
+Start by educating yourself about OCD. Learn what to expect and what things you can do that will or won't be helpful.
+
+Families often make the mistake of enabling loved ones with OCD. For example, you cancel social plans to help your spouse avoid coming in contact with germs, or you arrange things just so on your child's plate to prevent a meltdown.
+
+While that's done out of care, it isn't really helping -- it just reinforces the behavior and makes it harder to change. It's better to encourage your family members to seek or stick to treatment and for you to participate in therapy with them. A therapist can help you learn to change the way you respond to their symptoms.
+
+You may be able to spot problem behaviors before a loved one does, especially with children. If you suspect a loved one has OCD but hasn't been diagnosed, tell them what you've noticed and ask whether they think there's an issue. You may be able to steer them toward a diagnosis or help with treatment.
+
+There are also support groups for people who have a loved one with OCD.
+
+Obsessive-compulsive disorder (OCD) is a mental illness in which you have uncontrollable patterns of thinking and/or behaviors. You may feel forced to perform certain physical or mental acts to relieve the stress of unwanted thoughts. While OCD can't be cured, many people are able to manage the disorder with therapy, medication, or both.
